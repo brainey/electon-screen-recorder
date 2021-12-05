@@ -13,7 +13,7 @@ and the code was copied from:
 Unfortunately, since the time this tutorial was written, several  changes have
 been made to Electron to make it a more secure environment. One of the changes
 was the removal of the `remote` facility from the renderer process. So, had to
-rewrite the portions using remote to `ipcMain` and `ipcRenderer` instead.
+rewrite the portions using `remote` to use `ipcMain` and `ipcRenderer` instead.
 
 It does seem odd to me
 that things like dialog and popup windows are not the responsibility of a renderer process, but that they
