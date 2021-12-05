@@ -4,7 +4,7 @@ An example to show how easy it is to write an Electron app.
 
 This was part of a tutorial on how to write an Electron app in 10 minutes:
 
-[Electron 10 Minute Project](https://fireship.io/lessons/electron-screen-recorder-project-tutorial/)
+[Electron Screen Capture Tutorial](https://fireship.io/lessons/electron-screen-recorder-project-tutorial/)
 
 and the code was copied from:
 
